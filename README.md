@@ -21,6 +21,32 @@
   <li>Devops Engineer</li>
 </ul>
 
+
+
+
+
+[![Uday's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=udaybhaskar)](https://auth.geeksforgeeks.org/user/20a91a1252/practice)
+
+
+
+[![](https://leetcard.jacoblin.cool/uday_bhaskar?theme=dark)](https://leetcode.com/Udaybhaskartalari2002/)
+
+
+
+
+
+
+
+
+<h3 align="left">Languages:</h3>
+<p align="left"> <a href="https://github.com/UdaybhaskarTalari" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="35" height="40"/> </a> </a> <a href="https://www.github.com/padalavenkatakrishnareddy/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="firebase" width="40" height="40"/> </a>   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="git" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/download-icon-development+logo+mysql+icon-1320184807686758112_512.png" alt="tailwind" width="40" height="40"/> </a> </p>
+
+
+
+
+
+
+
 <p align="center">Check out some of my projects:</p>
 
 <ul>
