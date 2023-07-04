@@ -22,16 +22,13 @@
 </ul>
 
 
+<p align="center">
+  <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=udaybhaskar" alt="Uday's GeeksForGeeks stats">
+</p>
 
-
-[![Uday's GeeksForGeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=udaybhaskar)](https://auth.geeksforgeeks.org/user/20a91a1252/practice)
-
-[![](https://leetcard.jacoblin.cool/uday_bhaskar?theme=dark)](https://leetcode.com/Udaybhaskartalari2002/)
-
-
-
-
-
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/uday_bhaskar?theme=dark" alt="Uday's LeetCode stats">
+</p>
 
 
 <h3 align="left">Languages:</h3>
