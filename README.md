@@ -22,9 +22,8 @@
 </ul>
 
 
-<p align="center">
-  <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=udaybhaskar" alt="Uday's GeeksForGeeks stats">
-</p>
+[![Udaybhaskar's GeeksForGeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=udaybhaskar)](https://auth.geeksforgeeks.org/user/20a91a1252)
+
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/uday_bhaskar?theme=dark" alt="Uday's LeetCode stats">
