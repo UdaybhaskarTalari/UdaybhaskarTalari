@@ -15,10 +15,11 @@
 
 <ul>
   <li>Cloud Engineer</li>
-  <li>Front-end Technologies (HTML, CSS, JavaScript)</li>
-  <li>Back-end Technologies (Node.js)</li>
-  <li>Database Management (MySQL, MongoDB)</li>
   <li>Devops Engineer</li>
+  <li>Front-end Technologies (HTML, CSS, JavaScript)</li>
+  <li>Database Management (MySQL, MongoDB)</li>
+  <li>Back-end Technologies (Node.js)</li>
+  
 </ul>
 
 
