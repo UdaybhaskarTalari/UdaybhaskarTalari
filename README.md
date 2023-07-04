@@ -24,8 +24,7 @@
 
 
 
-
-[![Uday's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=udaybhaskar)](https://auth.geeksforgeeks.org/user/20a91a1252/practice)
+[![Uday's GeeksForGeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=udaybhaskar)](https://auth.geeksforgeeks.org/user/20a91a1252/practice)
 
 [![](https://leetcard.jacoblin.cool/uday_bhaskar?theme=dark)](https://leetcode.com/Udaybhaskartalari2002/)
 
