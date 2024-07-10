@@ -14,11 +14,11 @@
 <p align="center">Here are some of my areas of expertise:</p>
 
 <ul>
-  <li>Cloud Engineer</li>
-  <li>Devops Engineer</li>
-  <li>Front-end Technologies (HTML, CSS, JavaScript)</li>
-  <li>Database Management (MySQL, MongoDB)</li>
+  <li>Front-end Technologies (HTML, CSS, JavaScript,React,Angular)</li>
   <li>Back-end Technologies (Node.js)</li>
+  <li>Database Management (MySQL, Postgres)</li>
+  <li>.NET Framework</li>
+  <li>Cloud Engineer</li>
   
 </ul>
 
