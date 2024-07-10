@@ -45,8 +45,8 @@
 <p align="center">Check out some of my projects:</p>
 
 <ul>
-  <li><a href="https://github.com/your-project1">Project 1</a> -Infrastructure automation with terraform.</li>
-  <li><a href="https://github.com/your-project2">Project 2</a> - CI/CD pipeline with jenkins.</li>
+  <li><a href="https://github.com/UdaybhaskarTalari/tools-BE">Project 1</a> -QA Automation Tools.</li>
+  <li><a href="https://github.com/UdaybhaskarTalari/football">Project 2</a> - FootBall.</li>
   <li><a href="https://github.com/your-project3">Project 3</a> - Movie listing website.</li>
 </ul>
 
